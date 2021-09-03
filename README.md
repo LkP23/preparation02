@@ -191,7 +191,8 @@ to GitHub. Feel free to add more to your R script, save, and commit.
 ### ☑️ Tasks 6: Wrapping Up
 
 Go back to your `preparation02` GitHub repo and verify that your
-`preparation02-file.R` file is here.
+`preparation02-file.R` file is here. **You can now close the PAT page
+tab.**
 
 In Blackboard, submit the link to your newly created
 `<username>/preparation02` GitHub repo as a *clickable link* for
